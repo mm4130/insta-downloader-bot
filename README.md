@@ -3,5 +3,7 @@
 [fast hosting](https://my.parsigig.ir)
 
 ``` 
+<?php
 echo 'hi';
+?>
 ```
