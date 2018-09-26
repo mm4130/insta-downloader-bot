@@ -2,6 +2,6 @@
 # test
 [fast hosting](https://my.parsigig.ir)
 
-`<?php 
+```<?php 
 echo 'hi';
->`
+>```
